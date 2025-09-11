@@ -1,0 +1,60 @@
+# -------------------------
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# -------------------------
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# -------------------------
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# -------------------------
+# IDE & editor settings
+.vscode/
+.idea/
+
+# -------------------------
+# System files
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+*.log
+
+# -------------------------
+# Machine Learning / Data Science junk
+
+# Model checkpoints and weights
+*.ckpt
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# TensorBoard / MLflow / experiment logs
+runs/
+logs/
+mlruns/
+
+# Large datasets (raw data)
+data/raw/
+*.zip
+*.tar
+*.gz
+
+# Results / outputs
+outputs/
+predictions/
+
+# Checkpoints for HuggingFace, PyTorch Lightning, etc.
+checkpoint/
+checkpoints/
