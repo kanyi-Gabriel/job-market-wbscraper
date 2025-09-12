@@ -52,7 +52,7 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 ### 🔹 Top 20 Skills in Demand
 ![Top Skills](images/top_skills.jpg)
 
-> Python, AWS, and SQL dominate the remote data science job market.
+> Deveoper, Design, and technical roles dominate the remote job market.
 
 ### 🔹 Salary Distribution
 ![Salary Distribution](images/salary_distribution.jpg)
@@ -62,7 +62,7 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 ### 🔹 Job Postings Over Time
 ![Jobs Trend](images/jobs_trend.jpg)
 
-> Remote job postings show consistent demand, peaking in the last month.
+> Remote job postings showed consistent demand in August but dropped sharply toward the end of the month and into September.
 
 ---
  
