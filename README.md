@@ -32,13 +32,17 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 ## 📂 Project Structure
 
 ┣ 📜 README.md
+
 ┣ 📜 requirements.txt
+
 ┣ 📂 notebooks
 ┃ ┗ 📓 web-scrap.ipynb
+
 ┣ 📂 data
 ┃ ┗ remoteok_jobs.csv
+
 ┗ 📂 images
-┣ top_skills.png
-┣ salary_distribution.png
-┗ jobs_trend.png
+  ┣ top_skills.png
+  ┣ salary_distribution.png
+  ┗ jobs_trend.png
 
