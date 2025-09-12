@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 This project demonstrates **end-to-end web scraping, data cleaning, and analysis** of remote job postings.  
 We collected live job postings from **[RemoteOK](https://remoteok.com/)** using Selenium, structured the dataset, and performed **Exploratory Data Analysis (EDA)** to extract actionable insights.
 
@@ -50,17 +50,17 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 
 ## 📊 Key Insights
 ### 🔹 Top 20 Skills in Demand
-![Top Skills](images/top_skills.png)
+![Top Skills](images/top_skills.jpg)
 
 > Python, AWS, and SQL dominate the remote data science job market.
 
 ### 🔹 Salary Distribution
-![Salary Distribution](images/salary_distribution.png)
+![Salary Distribution](images/salary_distribution.jpg)
 
 > Most jobs fall between **$60k–120k**, with some high-paying roles exceeding $150k.
 
 ### 🔹 Job Postings Over Time
-![Jobs Trend](images/jobs_trend.png)
+![Jobs Trend](images/jobs_trend.jpg)
 
 > Remote job postings show consistent demand, peaking in the last month.
 
