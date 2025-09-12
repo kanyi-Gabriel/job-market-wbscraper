@@ -45,3 +45,31 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
   ┣ salary_distribution.png
   ┗ jobs_trend.png
 
+  
+---
+
+## 📊 Key Insights
+### 🔹 Top 20 Skills in Demand
+![Top Skills](images/top_skills.png)
+
+> Python, AWS, and SQL dominate the remote data science job market.
+
+### 🔹 Salary Distribution
+![Salary Distribution](images/salary_distribution.png)
+
+> Most jobs fall between **$60k–120k**, with some high-paying roles exceeding $150k.
+
+### 🔹 Job Postings Over Time
+![Jobs Trend](images/jobs_trend.png)
+
+> Remote job postings show consistent demand, peaking in the last month.
+
+---
+
+## 🚀 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/<kanyi-Gabriel>/job-market-wbscraper.git
+ 
+
+
