@@ -52,8 +52,7 @@ job-market-wbscraper/
 │
 └── reports/             
     └── summary_report.pdf
-
-  
+```
 ---
 
 ## 📊 Key Insights
