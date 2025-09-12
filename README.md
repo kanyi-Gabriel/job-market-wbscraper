@@ -30,20 +30,28 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 
 ## 📂 Project Structure
 
-┣ 📜 README.md
-
-┣ 📜 requirements.txt
-
-┣ 📂 notebooks
-┃ ┗ 📓 web-scrap.ipynb
-
-┣ 📂 data
-┃ ┗ remoteok_jobs.csv
-
-┗ 📂 images
-  ┣ top_skills.png
-  ┣ salary_distribution.png
-  ┗ jobs_trend.png
+job-market-wbscraper/
+│── README.md
+│── requirements.txt
+│── .gitignore
+│
+├── data/               ore)
+│   └── remoteok_jobs.csv   # Sample dataset 
+│
+├── notebooks/           # Jupyter notebooks for analysis
+│   └── 01_scraping_and_eda.ipynb
+│
+├── LICENCE               
+│
+├── .gitattributes               
+│
+├── images/              
+│   ├── top_skills.png
+│   ├── salary_distribution.png
+│   └── jobs_trend.png
+│
+└── reports/             
+    └── summary_report.pdf
 
   
 ---
