@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-WebScraping-yellow?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly&logoColor=white)
 
