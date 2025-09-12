@@ -65,11 +65,23 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 > Remote job postings show consistent demand, peaking in the last month.
 
 ---
-
-## 🚀 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/<kanyi-Gabriel>/job-market-wbscraper.git
  
 
+##  Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<kanyi-Gabriel>/job-market-wbscraper.git
+   
+2. Create a virtual environment
+    ```bash
+
+   conda create -- name environment_name
+   conda activate environment_name
+   pip install -r requirements.txt
+    
+3. To add the environment to jupyter notebook
+    ```bash
+    conda install -c anaconda ipykernel
+    python -m ipykernel install --user--name = environment_name
 
