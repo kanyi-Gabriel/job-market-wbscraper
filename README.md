@@ -43,7 +43,11 @@ job-market-wbscraper/
 │
 ├── LICENCE               
 │
-├── .gitattributes               
+├── .gitattributes
+├── src/                    
+│  └── scraper.py              
+│
+├── scraper.py
 │
 ├── images/              
 │   ├── top_skills.png
@@ -72,7 +76,21 @@ job-market-wbscraper/
 > Remote job postings showed consistent demand in August but dropped sharply toward the end of the month and into September.
 
 ---
- 
+## Automation (Linux Cron Jobs)
+
+The scraper runs daily at 9 AM using cron on WSL/Linux. Each run saves a dated CSV in /data
+### Cron Setup:
+
+1. Open cron editor:
+``` bash
+crontab -e
+```
+2. Add the following line:
+```bash
+
+0 9 * * * /usr/bin/python3 /path/to/your/project/scraper.py
+```
+---
 
 ##  Setup & Installation
 
