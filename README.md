@@ -35,11 +35,13 @@ job-market-wbscraper/
 │── requirements.txt
 │── .gitignore
 │
-├── data/               
-│   └── remoteok_jobs.csv   # Sample dataset 
+├── data/
+│        ├── remoteok_jobs.csv
+│        └── remoteok_jobs_2025-9-13.cvs           
+│   
 │
 ├── notebooks/           # Jupyter notebooks for analysis
-│   └── 01_scraping_and_eda.ipynb
+│   └── web-scrap.ipynb
 │
 ├── LICENCE               
 │
