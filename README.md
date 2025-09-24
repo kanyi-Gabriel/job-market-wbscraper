@@ -28,7 +28,7 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
 ---
 
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 job-market-wbscraper/
 │── README.md
