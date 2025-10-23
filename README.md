@@ -98,7 +98,7 @@ crontab -e
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<kanyi-Gabriel>/job-market-wbscraper.git
+   git clone https://github.com/kanyi-Gabriel/job-market-wbscraper.git
    
 2. Create a virtual environment
     ```bash
