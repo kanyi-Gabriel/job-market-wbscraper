@@ -12,8 +12,6 @@ This project demonstrates **end-to-end web scraping, data cleaning, and analysis
 We collected live job postings from **[RemoteOK](https://remoteok.com/)** using Selenium, structured the dataset, and performed **Exploratory Data Analysis (EDA)** to extract actionable insights.
 
 
----
-
 ##  Objectives
 - Scrape **job postings** (title, company, skills, salary, location, posting date).  
 - Clean and normalize messy text fields (skills, salaries, locations).  
@@ -24,8 +22,6 @@ We collected live job postings from **[RemoteOK](https://remoteok.com/)** using 
   - Job location breakdown  
   - Salary distribution  
   - Job postings trend over time  
-
----
 
 
 ## Project Structure
@@ -59,7 +55,7 @@ job-market-wbscraper/
 └── reports/             
     └── summary_report.pdf
 ```
----
+
 
 ## 📊 Key Insights
 ### 🔹 Top 20 Skills in Demand
@@ -92,7 +88,7 @@ crontab -e
 
 0 9 * * * /usr/bin/python3 /path/to/your/project/scraper.py
 ```
----
+
 
 ##  Setup & Installation
 
