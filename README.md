@@ -5,7 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly&logoColor=white)
 
----
 
 ##  Project Overview
 This project demonstrates **end-to-end web scraping, data cleaning, and analysis** of remote job postings.  
